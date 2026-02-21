@@ -1,7 +1,7 @@
 # GRC Portfolio: [Prachi Naik]
 Welcome to my GRC Portfolio. I specialize in mapping technical controls to business risks.
 
-# Linkedin: www.linkedin.com/in/prachi-n-b380443ab
+## Linkedin: www.linkedin.com/in/prachi-n-b380443ab
 
 ## Featured Projects
 1. **AI Compliance Framework**: Mapped internal AI usage to ISO 42001 standards.
