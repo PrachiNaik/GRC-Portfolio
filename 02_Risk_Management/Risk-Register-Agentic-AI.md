@@ -1,3 +1,12 @@
+## Document Control & Ownership
+| Information | Details |
+| :--- | :--- |
+| **Organization** | Agentic Trust Corp (Fictional) |
+| **Author / Analyst** | Prachi Naik |
+| **Analyst ID** | PN-2026-GRC |
+| **Classification** | Public / Portfolio |
+| **Approved By** | Prachi Naik |
+
 ### 🛡️ 2026 AI Risk Register
 
 | Risk ID | Risk Scenario | Framework | Inherent Risk | Mitigation Control | Residual Risk |
