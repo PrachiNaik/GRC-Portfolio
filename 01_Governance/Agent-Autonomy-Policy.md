@@ -1,4 +1,4 @@
-# Standard "Acceptable Use Policies" are outdated. You need a policy that defines levels of autonomy.
+# Policy that defines levels of AI agent autonomy.
 
 # Key sections:
 
