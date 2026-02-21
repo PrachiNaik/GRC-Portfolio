@@ -7,7 +7,7 @@
 | **Document ID** | THP01-2026-GRC |
 | **Classification** | Public / Portfolio |
 | **Approved By** | Prachi Naik |
-# AI Vendor Security Questionnaire (GRC-01)
+# AI Vendor Security Questionnaire
 
 **Vendor Name:** ____________________  
 **AI Product/Service:** ____________________  
