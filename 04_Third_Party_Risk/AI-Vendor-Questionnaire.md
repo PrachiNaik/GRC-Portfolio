@@ -1,3 +1,11 @@
+## Document Control & Ownership
+| Information | Details |
+| :--- | :--- |
+| **Organization** | Agentic Trust Corp (Fictional) |
+| **Author / Analyst** | Prachi Naik |
+| **Analyst ID** | PN-2026-GRC |
+| **Classification** | Public / Portfolio |
+| **Approved By** | Prachi Naik |
 # AI Vendor Security Questionnaire (GRC-01)
 
 **Vendor Name:** ____________________  
