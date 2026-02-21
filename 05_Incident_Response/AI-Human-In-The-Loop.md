@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[<b>AI Agent</b><br/>Triggered by User Prompt] --> B{Action Classification}
     
@@ -17,3 +18,4 @@ graph TD
     style G fill:#f96,stroke:#333,stroke-width:4px
     style I fill:#bbf,stroke:#333,stroke-width:2px
     style K fill:#9f9,stroke:#333,stroke-width:2px
+```
