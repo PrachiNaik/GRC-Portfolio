@@ -1,3 +1,12 @@
+## Document Control & Ownership
+| Information | Details |
+| :--- | :--- |
+| **Organization** | Agentic Trust Corp (Fictional) |
+| **Author / Analyst** | Prachi Naik |
+| **Analyst ID** | PN-2026-GRC |
+| **Classification** | Public / Portfolio |
+| **Approved By** | Prachi Naik |
+
 ```mermaid
 graph TD
     A[<b>AI Agent</b><br/>Triggered by User Prompt] --> B{Action Classification}
