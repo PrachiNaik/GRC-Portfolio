@@ -8,8 +8,11 @@
 
 ## Action Tiers:
 
-# Tier 1 (Read-Only): Agent can summarize data. (No approval needed).
+# Tier 1 (Read-Only): 
+Agent can summarize data. (No approval needed).
 
-# Tier 2 (Internal Action): Agent can move files. (Audit log required).
+# Tier 2 (Internal Action): 
+Agent can move files. (Audit log required).
 
-# Tier 3 (External/Financial): Agent can pay vendors. (MFA-style human approval required).
+# Tier 3 (External/Financial): 
+Agent can pay vendors. (MFA-style human approval required).
