@@ -1,0 +1,11 @@
+ID,2026 Risk Category,What it means in GRC terms
+ASI-01,Agent Goal Hijack,"An attacker ""reprograms"" the agent's objective via hidden instructions in data (e.g., a poisoned PDF)."
+ASI-02,Tool Misuse & Exploitation,"The agent has ""excessive permissions"" to tools it doesn't need (e.g., a summary bot that also has 'Delete Database' access)."
+ASI-03,Identity & Privilege Abuse,"The agent ""borrows"" a user's identity to do things the user didn't authorize (The ""Confused Deputy"" problem)."
+ASI-04,Agentic Supply Chain,"The risk of using 3rd-party agents or ""Model Context Protocol"" (MCP) servers that are backdoored."
+ASI-05,Unexpected Code Execution,"The agent writes and runs its own code to solve a problem, but accidentally runs a malicious script."
+ASI-06,Memory & Context Poisoning,"An attacker ""seeds"" the agent's long-term memory so it makes biased or dangerous decisions weeks later."
+ASI-07,Insecure Inter-Agent Comm,"When ""Agent A"" talks to ""Agent B,"" they don't verify each other's identity, allowing for spoofing."
+ASI-08,Cascading Failures,"One small error in an autonomous chain leads to a massive, un-stoppable system-wide crash."
+ASI-09,Human-Agent Trust Exploitation,"The agent is so ""polite"" or ""confident"" that a human reviewer stops checking its work (Authority Bias)."
+ASI-10,Rogue Agents,"A compromised agent begins spawning ""clones"" of itself to maintain persistence in a network."
