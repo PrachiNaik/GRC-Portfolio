@@ -4,6 +4,7 @@
 | **Organization** | Agentic Trust Corp (Fictional) |
 | **Author / Analyst** | Prachi Naik |
 | **Analyst ID** | PN-2026-GRC |
+| **Document ID** | RM01-2026-GRC |
 | **Classification** | Public / Portfolio |
 | **Approved By** | Prachi Naik |
 
