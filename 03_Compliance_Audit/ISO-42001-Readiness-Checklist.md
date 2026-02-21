@@ -1,3 +1,12 @@
+## Document Control & Ownership
+| Information | Details |
+| :--- | :--- |
+| **Organization** | Agentic Trust Corp (Fictional) |
+| **Author / Analyst** | Prachi Naik |
+| **Analyst ID** | PN-2026-GRC |
+| **Classification** | Public / Portfolio |
+| **Approved By** | Prachi Naik |
+
 ## Checklist for an "Agentic Workflow":
 
 [ ] Data Provenance: Can we prove where the agent's training/RAG data came from?
