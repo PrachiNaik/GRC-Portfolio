@@ -27,3 +27,12 @@ Welcome to my GRC Portfolio. I specialize in mapping technical controls to busin
 * [**Compliance**](./03_Compliance_Audit/): Framework alignment (NIST, ISO 42001)
 * [**Third Party Risk**](./04_Third_Party_Risk/): Vendor vetting and questionnaires
 * [**Incident Response**](./05_Incident_Response/): IR Plans and Tabletop Exercises
+
+## 🛠️ The Agentic Trust Corp Tech Stack (Fictional)
+- While this repository contains the core governance logic, in a production environment, I advocate for an **Automation-First GRC approach**:
+
+- **Compliance Automation**: Utilizing platforms like Vanta or Drata for continuous control monitoring.
+
+- **AI-Assisted Auditing**: Leveraging LLMs for policy-to-control mapping and automated evidence collection.
+
+- **SIEM/SOAR**: Integrating risk alerts into automated remediation workflows to reduce Mean Time to Remediate (MTTR).
